@@ -1,3 +1,10 @@
 Alfa: Nealon Federico
 Beta: Martin Harry
 Gamma: Panello Fausto
+
+a. Para actualizar mi repositorio, debo hacer git pull (link del repositorio forkeado), y una vez descargados los cambios, pushe-
+arlos.
+b. 
+c. 
+d. 
+e. 

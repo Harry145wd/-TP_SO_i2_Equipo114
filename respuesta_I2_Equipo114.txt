@@ -5,6 +5,6 @@ Gamma: Panello Fausto
 a. Para actualizar mi repositorio, debo hacer git pull (link del repositorio forkeado), y una vez descargados los cambios, pushe-
 arlos.
 b. Si, alfa tiene que hacer git pull (repo gamma) para poder hacerlo.
-c. 
-d. 
+c. Si, Gamma hace git pull al fork de Alfa.
+d. Se sobreescriben los archivos con mismo nombre, se añaden archivos de distinto nombre y si se crea un archivo que no esta en el repo del pull este se mantiene
 e. 
